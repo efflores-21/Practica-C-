@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Practica C#\Practica #2  Ejercicio\Practica #2\bin\Debug\Practica #2.exe.config
+C:\Users\admin\Desktop\Practica C#\Practica #2  Ejercicio\Practica #2\bin\Debug\Practica #2.exe
+C:\Users\admin\Desktop\Practica C#\Practica #2  Ejercicio\Practica #2\bin\Debug\Practica #2.pdb
+C:\Users\admin\Desktop\Practica C#\Practica #2  Ejercicio\Practica #2\obj\Debug\Practica #2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Practica C#\Practica #2  Ejercicio\Practica #2\obj\Debug\Practica__2.Form1.resources
+C:\Users\admin\Desktop\Practica C#\Practica #2  Ejercicio\Practica #2\obj\Debug\Practica__2.Properties.Resources.resources
+C:\Users\admin\Desktop\Practica C#\Practica #2  Ejercicio\Practica #2\obj\Debug\Practica #2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Practica C#\Practica #2  Ejercicio\Practica #2\obj\Debug\Practica #2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Practica C#\Practica #2  Ejercicio\Practica #2\obj\Debug\Practica #2.exe
+C:\Users\admin\Desktop\Practica C#\Practica #2  Ejercicio\Practica #2\obj\Debug\Practica #2.pdb
